@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\irham_nrphlax\\Documents\\Semester 4\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\code\\TP 10\\WebApplication1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3704E2F-D96C-4FD9-9548-3451F6CA9ADA}|WebApplication1\\WebApplication1.csproj|c:\\users\\irham_nrphlax\\documents\\semester 4\\praktikum kontruksi perangkat lunak\\code\\tp 10\\webapplication1\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3704E2F-D96C-4FD9-9548-3451F6CA9ADA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3704E2F-D96C-4FD9-9548-3451F6CA9ADA}|WebApplication1\\WebApplication1.csproj|c:\\users\\irham_nrphlax\\documents\\semester 4\\praktikum kontruksi perangkat lunak\\code\\tp 10\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3704E2F-D96C-4FD9-9548-3451F6CA9ADA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3704E2F-D96C-4FD9-9548-3451F6CA9ADA}|WebApplication1\\WebApplication1.csproj|c:\\users\\irham_nrphlax\\documents\\semester 4\\praktikum kontruksi perangkat lunak\\code\\tp 10\\webapplication1\\webapplication1\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3704E2F-D96C-4FD9-9548-3451F6CA9ADA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3704E2F-D96C-4FD9-9548-3451F6CA9ADA}|WebApplication1\\WebApplication1.csproj|c:\\users\\irham_nrphlax\\documents\\semester 4\\praktikum kontruksi perangkat lunak\\code\\tp 10\\webapplication1\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A3704E2F-D96C-4FD9-9548-3451F6CA9ADA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\irham_nrphlax\\Documents\\Semester 4\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\code\\TP 10\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\irham_nrphlax\\Documents\\Semester 4\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\code\\TP 10\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:47:18.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApplication1.http",
+              "DocumentMoniker": "C:\\Users\\irham_nrphlax\\Documents\\Semester 4\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\code\\TP 10\\WebApplication1\\WebApplication1\\WebApplication1.http",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.http",
+              "ToolTip": "C:\\Users\\irham_nrphlax\\Documents\\Semester 4\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\code\\TP 10\\WebApplication1\\WebApplication1\\WebApplication1.http",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-28T15:41:04.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\irham_nrphlax\\Documents\\Semester 4\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\code\\TP 10\\WebApplication1\\WebApplication1\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Mahasiswa.cs",
+              "ToolTip": "C:\\Users\\irham_nrphlax\\Documents\\Semester 4\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\code\\TP 10\\WebApplication1\\WebApplication1\\Mahasiswa.cs",
+              "RelativeToolTip": "WebApplication1\\Mahasiswa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:40:58.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\irham_nrphlax\\Documents\\Semester 4\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\code\\TP 10\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\irham_nrphlax\\Documents\\Semester 4\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\code\\TP 10\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:38:55.565Z"
             }
           ]
         }

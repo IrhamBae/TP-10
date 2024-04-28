@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WQjRTjZsX0Gz1C9dFjb02hVJ9itAKFv+wiKXIRErQ2GFDQrri/1vtym1aDNECcJjU4sj/E2V3Y1N9Mo/4H0mCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\irham_nrphlax\\Documents\\Semester 4\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\code\\TP 10\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irham_nrphlax\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\irham_nrphlax\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\irham_nrphlax\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\irham_nrphlax\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\irham_nrphlax\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\irham_nrphlax\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "ContainingType": "MahasiswaAPI.Controllers.MahasiswaController",
+    "Method": "GetMahasiswa",
+    "RelativePath": "api/Mahasiswa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[MahasiswaAPI.Models.Mahasiswa, WebApplication3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MahasiswaAPI.Controllers.MahasiswaController",
+    "Method": "PostMahasiswa",
+    "RelativePath": "api/Mahasiswa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mahasiswa",
+        "Type": "MahasiswaAPI.Models.Mahasiswa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MahasiswaAPI.Controllers.MahasiswaController",
+    "Method": "GetMahasiswa",
+    "RelativePath": "api/Mahasiswa/{nim}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nim",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MahasiswaAPI.Models.Mahasiswa",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MahasiswaAPI.Controllers.MahasiswaController",
+    "Method": "PutMahasiswa",
+    "RelativePath": "api/Mahasiswa/{nim}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nim",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedMahasiswa",
+        "Type": "MahasiswaAPI.Models.Mahasiswa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MahasiswaAPI.Controllers.MahasiswaController",
+    "Method": "DeleteMahasiswa",
+    "RelativePath": "api/Mahasiswa/{nim}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nim",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
